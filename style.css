@@ -93,7 +93,7 @@ img {
     line-height: 80px;
 }
 
-ul>li {
+.index-list {
     font-family: 'Roboto Mono', monospace;
     font-size: 30px;
 }
