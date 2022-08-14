@@ -46,6 +46,8 @@ h2,p {
 .form1 {
     width: 500px;
     align-items: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
   }
 
   .form1 input {
