@@ -99,3 +99,22 @@ img {
     font-family: 'Roboto Mono', monospace;
     font-size: 30px;
 }
+.h2-header {
+    border: 1px solid red;
+    display: inline-block;
+}
+
+.social-media {
+    border: 1px solid greenyellow;
+
+
+}
+
+.fake-broker {
+    border: 1px solid yellow;
+
+}
+
+.romance {
+    border: 1px solid turquoise;
+}
